@@ -1,0 +1,14 @@
+/*
+
+!/.gitignore
+!/Assets
+!/ProjectSettings
+!M4uDemo.unitypackage
+!README.md
+!LICENSE
+
+.DS_Store
+*.DS_Store
+*~
+/Assets/M4u
+/Assets/M4u.meta
