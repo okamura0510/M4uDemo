@@ -1,6 +1,4 @@
 # M4uDemo
-
-【UnityAsset】MVVM 4 uGUI - デモ で使用したプロジェクトです。  
   
 詳しくは以下をご確認下さい。  
   
