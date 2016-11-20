@@ -1,7 +1,6 @@
 ﻿using UnityEngine;
-using M4u;
 
-namespace M4uDemo
+namespace M4u.Demo
 {
 	public class Monster : M4uContext
 	{

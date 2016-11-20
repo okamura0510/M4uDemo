@@ -1,8 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
-using M4u;
 
-namespace M4uDemo
+namespace M4u.Demo
 {
 	public class Demo : MonoBehaviour
 	{
