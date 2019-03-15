@@ -1,2 +1,2 @@
 # M4uDemo
-[【UnityAsset】MVVM 4 uGUI - デモ](http://okamura0510.jp/てんぷらブログ/m4u-demo/)
+[【UnityAsset】MVVM 4 uGUI - デモ](https://okamura0510.hatenablog.jp/entry/2015/11/07/000100)
